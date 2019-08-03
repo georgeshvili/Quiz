@@ -1,9 +1,9 @@
-package FcknCollections;
+package StdCollections;
 
 import java.util.function.Function;
 import java.util.function.Predicate;
 
-public class OhShit {
+public class OhGod {
 
     public static <T, U> Function<T, U> ternaryOperator(
             Predicate<? super T> condition,

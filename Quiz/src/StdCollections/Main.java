@@ -1,4 +1,4 @@
-package FcknCollections;
+package StdCollections;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

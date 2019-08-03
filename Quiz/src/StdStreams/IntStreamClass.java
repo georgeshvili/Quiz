@@ -1,4 +1,4 @@
-package FcknStreams;
+package StdStreams;
 
 import java.util.stream.IntStream;
 
