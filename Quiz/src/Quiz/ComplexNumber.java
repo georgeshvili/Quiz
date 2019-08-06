@@ -34,7 +34,7 @@ public class ComplexNumber {
             return true;
         if(obj == null || obj.getClass() != this.getClass())
             return false;
-        ComplexNumber complexNumber = (ComplexNumber) obj;
+        //ComplexNumber complexNumber = (ComplexNumber) obj;
         if(re != ((ComplexNumber) obj).getRe() || im != ((ComplexNumber) obj).getIm())
             return false;
         return true;
